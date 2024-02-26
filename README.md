@@ -5,5 +5,5 @@ They tested classification and regression models of machine learning, as well as
 
 
 
-Murawiecki Daniel, Moscow Institute of Physics and Technology,
+Muravetskii Daniil, Moscow Institute of Physics and Technology,
 May 2023
